@@ -1,4 +1,6 @@
 pandas 
 ipyleaflet
 geopandas
+voila
+matplotlib
 ipywidgets
