@@ -3,4 +3,5 @@ ipyleaflet
 geopandas
 voila
 matplotlib
+descartes
 ipywidgets
